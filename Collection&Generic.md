@@ -103,11 +103,8 @@ public class Jukebox1 {
     ...
 }
 ````
-<<<<<<< HEAD
+
 > Collections.sort() method  
-=======
-> Collections.sort() method
->>>>>>> c8e456c6bc8cc4933e859bf37fc36ea5fd9d1224
 String으로 구성된 목록을 알파벳순으로 정렬해줍니다.
 
 하지만 우리는 String 뿐만 아니라 일반적인 객체인 Song 객체를 정렬할 줄 알아야 합니다.
@@ -201,9 +198,6 @@ public class Jukebox1 {
     }
 }
 ````
-<<<<<<< HEAD
+
 **그런데!!!!!!!!!! 컴파일이 안됩니다.!!!**  
-=======
-**그런데!!!!!!!!!! 컴파일이 안됩니다.!!!**
->>>>>>> c8e456c6bc8cc4933e859bf37fc36ea5fd9d1224
 무엇인 문제인걸까요?  
